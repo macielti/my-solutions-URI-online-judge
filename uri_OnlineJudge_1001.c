@@ -1,4 +1,5 @@
-#URI Online Judge | 1001
+#URI Online Judge | 1001 - Extremamente Básico
+
 #include <stdio.h>
 
 main(void){
